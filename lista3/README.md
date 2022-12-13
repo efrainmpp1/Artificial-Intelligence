@@ -11,7 +11,7 @@ A inteligência artificial e a aprendizagem de maquina profunda permitiram que d
 
 Nesta ultima atividade da disciplina, foi proposto que 
 apresentemos uma aplicação com o uso de técnicas de 
-Inteligência Artificial abordadas durante a disciplina.Com isso, o trabalho escolhido a ser abordado será as predições do numero de passageiros para uma companhia aérea em um determinado momento/dia.
+Inteligência Artificial abordadas durante a disciplina.Com isso, o trabalho escolhido a ser abordado será as predições do numero de passageiros para uma companhia aérea em um determinado mês.
 
 ## Palavras Chaves
 
